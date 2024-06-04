@@ -5521,7 +5521,7 @@ dependencies = [
  "tokio",
  "wascap 0.15.0",
  "wasmcloud-component-adapters",
- "wit-component 0.202.0",
+ "wit-component 0.209.1",
 ]
 
 [[package]]
@@ -6463,7 +6463,7 @@ dependencies = [
  "weld-codegen",
  "wit-bindgen-core",
  "wit-bindgen-go",
- "wit-component 0.202.0",
+ "wit-component 0.209.1",
  "wit-parser 0.202.0",
 ]
 
@@ -7176,7 +7176,7 @@ dependencies = [
  "wasmtime",
  "wasmtime-wasi",
  "wasmtime-wasi-http",
- "wit-component 0.202.0",
+ "wit-component 0.209.1",
  "wit-parser 0.202.0",
  "wrpc-runtime-wasmtime",
  "wrpc-transport",
